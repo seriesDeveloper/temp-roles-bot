@@ -1,7 +1,7 @@
 {
-    "token": "MTMzNzYzNzA0ODI2OTY2ODU0NQ.GYZm_m.TmMywQin3mkv71MX8UNfyFd3LYnXVAMs6mg0V4", 
-    "required_role_id": 1336422205625602128,
-    "log_id": 1336421548625756193, 
-    "guild_id": 1336421547963060308,
+    "token": "token your bot", 
+    "required_role_id": 123456789,
+    "log_id": 123456789, 
+    "guild_id": 123456789,
     "safe_mode": true  
 }
